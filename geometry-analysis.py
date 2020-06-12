@@ -1,3 +1,7 @@
+"""
+This module has functions associated with analyzing the geometry of a molecule.
+"""
+
 import numpy
 import os
 import argparse #to allow arguments being used by user
